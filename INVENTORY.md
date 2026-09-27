@@ -21,4 +21,4 @@ Public process files in this repo:
 
 Private notes live on the laptop ops git, not here.
 
-Current setup step: BD-07.
+Current setup step: BD-10.

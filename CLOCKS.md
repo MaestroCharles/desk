@@ -12,4 +12,4 @@ One clock, one time. Do not reuse a retired number.
 |----|------|--------|----------|-------|
 | (none yet) | | | | |
 
-Current setup step: BD-07.
+Current setup step: BD-10.

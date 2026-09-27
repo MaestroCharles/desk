@@ -16,4 +16,4 @@ Never-do (also required in Muse because Cursor rules do not run there):
 
 Dual-maintain: when this file changes, bump the fingerprint line the same sitting.
 
-Current setup step: BD-07. No LIVE clocks yet.
+Current setup step: BD-10. No LIVE clocks yet.

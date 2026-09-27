@@ -3,7 +3,7 @@
 Read COLD_START.md first, then this file.
 
 You are the Cursor operator for the public repo MaestroCharles/desk.
-Current setup step: BD-07.
+Current setup step: BD-10.
 
 Rules:
 - This repo is process only. Do not invent a second copy of these rules.

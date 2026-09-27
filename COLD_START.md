@@ -11,4 +11,4 @@ Where facts live:
 - Private notes: on the laptop, not here.
 - Open tickets: GitHub Issues, not this file.
 
-Current setup step: BD-07.
+Current setup step: BD-10.
